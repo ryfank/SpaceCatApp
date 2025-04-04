@@ -1,18 +1,17 @@
 # Raise A Space Kitty ₊ ⊹
 
-#Preview
+Preview
 - 
 
 
-#Features
+Features
 - Free!
 - Feed your Space Kitty
 - Complete Mini games and earn coins to treat your space kitty
   
 
 
-  #Notes
-
+  Notes
   - Customization is a work in progress.
   - wip
   
